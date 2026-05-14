@@ -1,0 +1,5 @@
+{
+  "name": "IntelliCal: Info Extractor & Calendar",
+  "description": "An intelligent mobile-first app to extract key information like deadlines, summaries, and locations from images, documents, and links. Automatically add extracted deadlines to a built-in calendar and export events to your favorite calendar app.",
+  "requestFramePermissions": []
+}
